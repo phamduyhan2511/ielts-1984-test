@@ -1,0 +1,33 @@
+{
+  "name": "ielts-1984-test",
+  "version": "1.0.0",
+  "description": "This project is online test of Ielts 1984 for Frontend Developer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.11.11",
+    "html-react-parser": "^5.1.18",
+    "next": "^14.2.17",
+    "react": "^18.3.1",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.3.1",
+    "sass": "^1.80.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3"
+  }
+}

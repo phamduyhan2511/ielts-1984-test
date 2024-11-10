@@ -1,0 +1,18 @@
+.container {
+  @apply text-center;
+}
+
+.text {
+  @apply inline-block
+}
+
+.words {
+  @apply flex justify-center mt-5 gap-4;
+}
+
+.word {
+  @apply p-2  cursor-pointer select-none rounded-lg bg-gray-100;
+
+}
+
+
